@@ -1,11 +1,6 @@
 # Lab-12
 ### Question 1: Display a pattern of numbers
-Write a method that displayed the following pattern: <br/>
-                  1<br/>
-             2    1<br/>
-        3    2    1<br/>
-...<br/>
-n  n-1  3    2    1<br/>
+Write a method that displays right triangle of numbers in ascending order ([see here]) (Lab-12/Lab12.pdf)
 <br/>
 n represents the integer that is prompted by the user
 </br>
