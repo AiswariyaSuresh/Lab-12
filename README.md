@@ -10,5 +10,5 @@ ex: The reverse of 3456 is 6543 <br/>
 <br/>
 
 ## What I Learned:
-
-
+- For and While loops in Java
+ - Problem Solving
