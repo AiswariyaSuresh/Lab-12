@@ -1,6 +1,6 @@
 # Lab-12
 ### Question 1: Display a pattern of numbers
-Write a method that displays right triangle of numbers in ascending order,[presented in this doc] (Lab-12/Lab12.pdf)
+Write a method that displays right triangle of numbers in ascending order (see Lab12.pdf in repo)
 <br/>
 n represents the integer that is prompted by the user
 </br>
